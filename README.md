@@ -3,12 +3,12 @@ I'm Jacqueline Wang 王佳琪, a PhD student in SJTU astronomy department.
 
 - 🔭 I’m currently working on Weak-lensing, Galaxy group evolution and Cluster cosmology.
 
-- 👯 Collaboration welcomingly on Weak-lensing science.
+- 👯 Collaboration welcomingly on 🔍 Weak-lensing science. 
 
 - 📫 How to reach me: wangjia777@sjtu.edu.cn.
 - 🏠 511 Science building, Minhang district, Shanghai Jiaotong University.
 
-- ⚡ I love photography, hiking, rowing and swimming.
+- ⚡ I love photography 📷, hiking 🧗, rowing 🚣 and swimming 🏊.
 
   
 <!--
