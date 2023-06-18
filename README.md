@@ -1,12 +1,14 @@
 ### Hi there 👋
-I'm Jacqueline Jiaqi Wang 王佳琪, a PhD student in SJTU astronomy department. 
+I'm Jacqueline Wang 王佳琪, a PhD student in SJTU astronomy department. 
 
 - 🔭 I’m currently working on weak-lensing, group evolution and cosmology
 
 - 👯 I’m looking to collaborate on Weak lensing science.
 - 
-- 📫 How to reach me: Wangjia777@sjtu.edu.cn, 511 Science building, Minhang district, Shanghai Jiaotong University
-- ⚡ Fun fact: ...
+- 📫 How to reach me: Wangjia777@sjtu.edu.cn
+-  511 Science building, Minhang district, Shanghai Jiaotong University
+-  
+- ⚡ I love photography, hiking, rowing and swimming.
 
   
 <!--
