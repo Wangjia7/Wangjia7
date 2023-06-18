@@ -1,10 +1,10 @@
 ### Hi there 👋
-I'm Jacqueline Jiaqi Wang, a PhD student in SJTU astronomy department.
-- 🔭 I’m currently working on weak-lensing and galaxy formation
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+I'm Jacqueline Jiaqi Wang, a PhD student in SJTU astronomy department. 
+
+- 🔭 I’m currently working on weak-lensing, group evolution and cosmology
+
+- 👯 I’m looking to collaborate on Weak lensing science.
+- 
 - 📫 How to reach me: Wangjia777@sjtu.edu.cn
 - ⚡ Fun fact: ...
 <!--
