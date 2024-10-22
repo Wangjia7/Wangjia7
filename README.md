@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jacqueline Wang 王佳琪, a PhD student in SJTU astronomy department. I am an observer mainly based on the DESI survey.
 
-- 🔭 I’m currently working on constraining the neutrino mass by persistent topology of the cosmic web.
+- 🔭 I’m currently working on constraining the neutrino mass bypersistent topology of the cosmic web.
 - My previous works include weak-lensing, Galaxy group evolution and Cluster cosmology. 
 
 - 👯 Collaboration welcomingly on 🔍 Weak-lensing science. 
