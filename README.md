@@ -1,15 +1,15 @@
 ### Hi there 👋
-I'm Jacqueline Wang 王佳琪, a PhD student in SJTU astronomy department. I am an observer mainly based on the DESI survey.
+I'm Jacky Wang 王佳琪, a PhD student in TDLI, SJTU / Durham. Member of DESI, Euclid, PFS collaboration.
 
-- 🔭 I’m currently working on constraining the neutrino mass bypersistent topology of the cosmic web.
+- 🔭 I’m currently working on constraining cosmological parameters and neutrino mass usingpersistent topology of the cosmic web. See: https://wangjia7.github.io/A-Cosmic-Topology-Handbook-for-Everyone for detailed description.
 - My previous works include weak-lensing, Galaxy group evolution and Cluster cosmology. 
 
-- 👯 Collaboration welcomingly on 🔍 Weak-lensing science. 
+- 👯 Science and Art-sci collaboration welcomed. 
 
-- 📫 How to reach me: wangjia777@sjtu.edu.cn / jiaqi.wang@durham.ac.uk.
+- 📫 How to reach me: wangjia777@sjtu.edu.cn / jiaqi.wang@durham.ac.uk / jqwang.735@gmail.com.
 - 🏠 511 Science building, Minhang district, Shanghai Jiaotong University.
 
-- ⚡ I love photography 📷, hiking 🧗, rowing 🚣 and badminton 🏸.
+- ⚡ Photography 📷, hiking 🧗, rowing 🚣, badminton 🏸 and table tennis 🏓.
 
 <!--
 **Wangjia7/Wangjia7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
