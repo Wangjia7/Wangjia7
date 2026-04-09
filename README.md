@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Jacky Wang 王佳琪, a PhD student in TDLI, SJTU / Durham. Member of DESI, Euclid, PFS collaboration.
 
-- 🔭 I’m currently working on constraining cosmological parameters and neutrino mass usingpersistent topology of the cosmic web. See: https://wangjia7.github.io/A-Cosmic-Topology-Handbook-for-Everyone for detailed description.
+- 🔭 I’m currently working on constraining cosmological parameters and neutrino mass using persistent topology of the cosmic web. See: https://wangjia7.github.io/A-Cosmic-Topology-Handbook-for-Everyone for a detailed description.
 - My previous works include weak-lensing, Galaxy group evolution and Cluster cosmology. 
 
 - 👯 Science and Art-sci collaboration welcomed. 
