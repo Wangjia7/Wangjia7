@@ -1,13 +1,12 @@
 ### Hi there 👋
-I'm Jacky Wang 王佳琪, a PhD student in TDLI, SJTU and Durham. Member of DESI, Euclid and PFS collaboration.
+I'm Jacky Wang 王佳琪, a PhD student in TDLI and Durham. Member of DESI, Euclid and PFS collaboration.
 
 - 🔭 I’m currently working on constraining cosmological parameters and neutrino mass using persistent topology of the cosmic web. See: https://wangjia7.github.io/A-Cosmic-Topology-Handbook-for-Everyone for a detailed description.
 - My previous works include weak-lensing, Galaxy group evolution and Cluster cosmology. 
 
 - 👯 Science and Art-sci collaboration welcomed. 
 
-- 📫 How to reach me: wangjia777@sjtu.edu.cn / jiaqi.wang@durham.ac.uk / jqwang.735@gmail.com.
-- 🏠 511 Science building, Minhang district, Shanghai Jiaotong University.
+- 📫 How to reach me: jiaqi.wang@durham.ac.uk / wangjia777@sjtu.edu.cn / jqwang.735@gmail.com.
 
 - ⚡ Photography 📷, hiking 🧗, rowing 🚣, badminton 🏸 and table tennis 🏓.
 
